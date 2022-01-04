@@ -1,0 +1,10 @@
+.two-columns__paragraph {
+  margin: 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.two-columns__paragraph:nth-of-type(odd) {
+  padding-top: 0;
+  padding-bottom: 0;
+}

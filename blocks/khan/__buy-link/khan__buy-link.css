@@ -1,0 +1,10 @@
+.khan__buy-link {
+  display: block;
+  text-decoration: none;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  margin: 0 0 0 48px;
+  color: #2f80ed;
+  transition: opacity 0.3s;
+}

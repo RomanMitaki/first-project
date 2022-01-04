@@ -1,0 +1,8 @@
+.header__link {
+  text-decoration-line: none;
+  color: #2f80ed;
+  opacity: 1;
+  transition: opacity 0.3s;
+}
+
+

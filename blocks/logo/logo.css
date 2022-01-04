@@ -1,0 +1,10 @@
+.logo {
+  width: 183px;
+  height: 35px; /*по брифу 33px, но в footer 35px, выбрал большее, я так понимаю размеры блока его определяют, а не являются элементом/модификатором*/
+  background-image: url(../../images/logo.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  box-sizing: border-box;
+  margin: 0;
+}
